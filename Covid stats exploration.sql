@@ -1,3 +1,4 @@
+
 --Deaths table
 SELECT *
 FROM Portfolio..covidDeaths
