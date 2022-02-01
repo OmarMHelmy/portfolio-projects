@@ -1,3 +1,5 @@
+--Quick Data exploration  of the covid deaths dataset from ourworldindata.org
+--link to the dataset https://ourworldindata.org/covid-deaths
 
 --Deaths table
 SELECT *
